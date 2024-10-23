@@ -1,4 +1,5 @@
-def encoder(message):
+#Will Engleby
+def encode(message):
 	result = ''
 	for digit in message:
 		new_digit = str((int(digit)+3) % 10)
