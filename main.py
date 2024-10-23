@@ -1,4 +1,4 @@
-from encoder import encoder
+from encoder import encode
 def main():
     while True:
         print("Menu")
